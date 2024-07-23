@@ -1,0 +1,5 @@
+streamlit
+gtts
+translator
+googletrans==4.0.0rc1
+translate
